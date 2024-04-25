@@ -63,17 +63,38 @@ Y= A⊕B
 
 
 **PROGRAM**
+![image](https://github.com/eswanth2005/study-of-basic-gates/assets/164656722/43cfce2e-1dd1-4d9d-996f-b00348564bda)
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: ESWANTH KUMAR K
+ RegisterNumber: 212223040046
  
 **Logic symbol & Truthtable**
 
+![image](https://github.com/eswanth2005/study-of-basic-gates/assets/164656722/edf4a1b2-bcbb-4bc2-824d-372092667afd)
+
+
+
+
 **RTL realization Output:** 
+
+RTL
+![image](https://github.com/eswanth2005/study-of-basic-gates/assets/164656722/f62181b5-8e54-41d9-a72a-618f624aaca2)
+
+
+
+
 
 **RTL**
 
+![EX1 DE WF](https://github.com/DaisyRavi/study-of-basic-gates/assets/151394386/229bbb23-183a-4a46-8ef7-95f9b0fffaee)
+
+
+
+
 **Result:**
+
+
 
 
