@@ -1,5 +1,7 @@
 ### study-of-basic-gates
 
+### NAME: ESWANTH KUMAR K
+### REG NO: 212223040046
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
